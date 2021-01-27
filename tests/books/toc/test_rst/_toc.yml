@@ -1,0 +1,12 @@
+- file: content0
+
+- part: Part1
+  chapters:
+  - file: content3
+  - file: content3a
+
+- part: Part2
+  chapters:
+  - file: content3b
+  - file: content3c
+  - file: content3d
